@@ -42,7 +42,7 @@ actual U-Boot source tree; however, it can be created dynamically
 from the Git log using:
 
 	make CHANGELOG
-
+	make LOG
 
 Where to get help:
 ==================
